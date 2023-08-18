@@ -1,0 +1,327 @@
+/* MAIN */
+
+.main-container {
+    position: relative;
+    width: 1512px;
+    height: 982px;
+    overflow-y: scroll;
+    background: #FFFFFF;
+  }
+  
+  /* Line 6 */
+  
+  .line6 {
+    position: absolute;
+    width: 1476.19px;
+    height: 0px;
+    left: 13px;
+    top: 550px;
+    border: 1px solid #ABABAB;
+  }
+  
+  /* Line 9 */
+  
+  .line9 {
+    position: absolute;
+    width: 488.23px;
+    height: 0px;
+    left: 50%;
+    top: 900px;
+    border: 1px solid #ABABAB;
+    transform: rotate(-90deg);
+  }
+  
+  /* Line 10 */
+  
+  .line10 {
+    position: absolute;
+    width: 488.23px;
+    height: 0px;
+    left: 20%;
+    top: 900px;
+    border: 1px solid #ABABAB;
+    transform: rotate(-90deg);
+  }
+  
+  /* quiz_btn */
+  
+  .quiz_btn {
+    position: absolute;
+    width: 320px;
+    height: 380px;
+    left: 592px;
+    top: 650px;
+  }
+  
+  /* quiz_ic */
+  
+  .quiz_ic {
+    width: 220px;
+    height: 220px;
+    left: 652px;
+    top: 780px;
+    background-image: url("../mainImg/quiz_ic.png");
+  }
+  
+  /* Rectangle 28 */
+  
+  .rectangle28 {
+
+    width: 308px;
+    height: 76px;
+    left: 592px;
+    top: 1110px;
+    background: rgba(0, 176, 240, 0.52);
+    border-radius: 50px;
+  }
+  
+  /* Rectangle 26 */
+  
+  .rectangle26 {
+
+    width: 140px;
+    height: 10px;
+    left: 681px;
+    top: 1088px;
+    background: rgba(0, 176, 240, 0.38);
+  }
+  
+  /* 신조어 맞추기 */
+  
+  .word-guess {
+    width: 273px;
+    height: 75px;
+    left: 641px;
+    top: 1124px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    color: #000000;
+  }
+  
+  /* #MZ어 따라잡기 */
+  
+  .mz-catch {
+
+    width: 166px;
+    height: 46px;
+    left: 687px;
+    top: 1080px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    background-image: linear-gradient(
+        rgba(0 0 0 / 0) 30%,
+        rgba(0, 176, 240, 0.52) 70%
+    );
+  }
+  
+  /* mztest_btn */
+  
+  .mztest_btn {
+    position: absolute;
+    width: 320px;
+    height: 380px;
+    left: 99px;
+    top: 650px;
+  }
+  
+  /* exam_ic */
+  
+  .exam_ic {
+    width: 220px;
+    height: 220px;
+    left: 145px;
+    top: 810px;
+    background-image: url(../mainImg/exam_ic.png);
+  }
+  
+  /* Rectangle 19 */
+  
+  .rectangle19 {
+
+    width: 308px;
+    height: 76px;
+    left: 99px;
+    top: 1110px;
+    background: rgba(0, 176, 240, 0.52);
+    border-radius: 50px;
+  }
+  
+  /* # 나의 MZ력은? */
+  
+  .mz-power {
+    width: 167px;
+    height: 46px;
+    left: 191px;
+    top: 1080px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    background-image: linear-gradient(
+        rgba(0 0 0 / 0) 30%,
+        rgba(0, 176, 240, 0.52) 70%
+    );
+  }
+  
+  /* Rectangle 25 */
+  
+  .rectangle25 {
+    width: 132px;
+    height: 10px;
+    left: 187px;
+    top: 1088px;
+    background: rgba(0, 176, 240, 0.38);
+  }
+  
+  /* MZ테스트 */
+  
+  .mz-test {
+
+    width: 198px;
+    height: 75px;
+    left: 175px;
+    top: 1126px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    color: #000000;
+  }
+  
+  /* dict_btn */
+  
+  .dict_btn {
+    position: absolute;
+    width: 320px;
+    height: 380px;
+    left: 1098px;
+    top: 650px;
+  }
+  
+  /* dictionary_ic */
+  
+  .dictionary_ic {
+    width: 220px;
+    height: 220px;
+    left: 1170px;
+    top: 816px;
+    background-image: url(../mainImg/dictionary_ic.png);
+  }
+  
+  /* Rectangle 29 */
+  
+  .rectangle29 {
+    width: 308px;
+    height: 76px;
+    left: 1098px;
+    top: 1110px;
+    background: rgba(0, 176, 240, 0.52);
+    border-radius: 50px;
+  }
+  
+  /* Rectangle 27 */
+  
+  .rectangle27 {
+    width: 225px;
+    height: 10px;
+    left: 1142px;
+    top: 1083px;
+    background: rgba(0, 176, 240, 0.38);
+  }
+  
+  /* 도감 */
+  
+  .dictionary {
+    width: 198px;
+    height: 75px;
+    left: 1224px;
+    top: 1124px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    color: #000000;
+  }
+  
+  /* #세대 간 소통을 위한 A to Z */
+  
+  .a-to-z {
+    width: 285px;
+    height: 46px;
+    left: 1146px;
+    top: 1080px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    background-image: linear-gradient(
+        rgba(0 0 0 / 0) 30%,
+        rgba(0, 176, 240, 0.52) 70%
+    );
+  }
+  
+  /* transmeme_btn */
+  
+  .transmeme_btn {  
+    width: 230px;
+    height: 356.44px;
+  }
+  
+  /* transferlogo */
+  
+  .transferlogo {
+    width: 180px;
+    height: 34.44px;
+    
+    background-image: url(../mainImg/title_kr.png);
+  }
+  
+  /* transfer_ic */
+  
+  .transfer_ic {
+    width: 220px;
+    height: 230px;
+    left: 649px;
+    top: 231px;
+    background-image: url(../mainImg/transfer_ic.png);
+  }
+  
+  /* 세대 통합을 위한 밈검색 */
+  
+  .mem-search {
+    width: 336px;
+    height: 52px;
+    left: 50%;
+    top: 512px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+  }
+  
+  /* mainlogo */
+  
+  .mainlogo {
+    position: absolute;
+    width: 300px;
+    height: 47.15px;
+    left: 617px;
+    top: 65px;
+    background-image: url(../mainImg/mainlogo.png);
+  }
+  
